@@ -21,6 +21,10 @@ Let's come to see and visite my E-commerce website[Backer store] via pictures, a
 ![Screenshot 2023-09-28 032215](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/adaf25ea-821b-4e9c-8ee2-5cc1c00d2c1e)
 ### Cart section
 ![Screenshot 2023-09-28 032429](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/7aeb7c43-c86f-4aca-ac43-09d413f715c6)
+## BPMN diagram 
+Business Process Model and Notation of overview for my E-commerce website 
+![Screenshot 2023-09-28 034727](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/f3645c6e-5ff4-4cf2-a2c1-74f0bc94b905)
+
 
 
 
