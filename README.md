@@ -7,6 +7,7 @@ Design and Develop Modern Ecommerce Plafform
 ## Abstract for project
 #### This procect is about E-commerc website development, It is bycicle sale website, by using some plateform to bulit it, the platform is wordpress. Backer shop got a lot of benefits and experience from this plateform wether many tools is like a woocommerce to help and develop to be a good website, and experience purchasing products tha is easy and safe.The information is below will show the overview of this project including method, software requirement, and the visual overview. It also includes a Business Process Model and Notation (BPMN) representation, elucidating the intricate processes that underpin the website's functionality.
 ## Software & Tools
+- Laragon
 
 
 
