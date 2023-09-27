@@ -12,8 +12,9 @@ Design and Develop Modern Ecommerce Plafform
 ### Wordpress 
 - Create and manage website content in the form of Contents Management System, or “CMS” for short, which is written in PHP and uses the MySQL database management system.
 ### Woocommerce 
--is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
+- is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
 ## Methods  
+Let's come to see and visite my E-commerce website[Backer store] via pictures, and for this part will have diagram to show outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality that is BPMN[Business Process Model and Notation]
 
 
 
