@@ -22,8 +22,17 @@ Let's come to see and visite my E-commerce website[Backer store] via pictures, a
 ### Cart section
 ![Screenshot 2023-09-28 032429](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/7aeb7c43-c86f-4aca-ac43-09d413f715c6)
 ## BPMN diagram 
-Business Process Model and Notation of overview for my E-commerce website 
+Business Process Model and Notation of overview for my E-commerce website.It is going to show processes, showcasing key interactions and workflows that enhance the platform's user-friendly online Backer store experience.
 ![Screenshot 2023-09-28 034727](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/f3645c6e-5ff4-4cf2-a2c1-74f0bc94b905)
+### Pools to use in BPMN
+- Customer
+- Webstore
+- Banking system
+- Shipping product
+- Admin
+### Customer pool
+![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
+
 
 
 
