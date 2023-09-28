@@ -27,14 +27,18 @@ You can select any poduct that you interested and can see the spec of that produ
 Business Process Model and Notation of overview for my E-commerce website.It is going to show processes, showcasing key interactions and workflows that enhance the platform's user-friendly online Backer store experience.
 ![Screenshot 2023-09-28 034727](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/f3645c6e-5ff4-4cf2-a2c1-74f0bc94b905)
 ### Pools to use in BPMN
-- Customer
-- Webstore
-- Banking system
-- Shipping product
-- Admin
+- **Customer**
+- **Webstore**
+- **Banking system**
+- **Shipping product**
+- **Admin**
 ### Customer pool
 ![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
-## - Start event with green point : Marks the beginning of the customer's journey on the platform.
+- **Start event with green point : Marks the beginning of the customer's journey on the platform.**
+
+![Screenshot 2023-09-28 124033](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/46b30c00-a822-4388-b59c-c987a0ed9e2a)
+- **When customer invite the website, they can look and see the product then select it.**
+
 
 
 
