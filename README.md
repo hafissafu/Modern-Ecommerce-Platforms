@@ -32,8 +32,8 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 - **Banking system**
 - **Shipping product**
 - **Admin**
-### Customer pool
-![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
+### 1 Customer pool
+**1.1**![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
 - **Start event with green point : Marks the beginning of the customer's journey on the platform.**
 
 ![Screenshot 2023-09-28 124033](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/46b30c00-a822-4388-b59c-c987a0ed9e2a)
