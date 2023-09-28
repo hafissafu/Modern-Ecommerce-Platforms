@@ -13,6 +13,10 @@ This procect is about E-commerc website development, It is bycicle sale website,
 - Create and manage website content in the form of Contents Management System, or “CMS” for short, which is written in PHP and uses the MySQL database management system.
 #### Woocommerce 
 - is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
+#### WooCommerce PDF Invoice & Pacging slips
+- WooCommerce PDF Invoice and Packing Slips is a WooCommerce extension plugin that automatically adds a PDF invoice to the order confirmation emails sent out to your customers.
+#### WooCommerce PDF-IPS-THAI
+- It is Plugin to help about language of system, to make thai font can not display to show on the system.
 ## Methods  
 
 ## Website overview
