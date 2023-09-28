@@ -46,7 +46,8 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 
 ![Screenshot 2023-09-28 134041](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/d511665f-aea2-4d53-a3bf-c11c9f086d6b)
 ![Screenshot 2023-09-28 134133](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/58d9c668-62c1-413c-977a-323145b15f8d)
-- **1.4 checkout or check bill process** : Fill the in information for address that customer live 
+- **1.4 checkout or check bill process**
+  - **Fill the shipping detail** : Fill the in information for address that customer live
 ![Screenshot 2023-09-28 134231](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/4067bafa-30e3-45e2-92ed-a0bfd491c9eb)
   - **Identify payment methods** : They are for 2 way to payment, pay on destination and Banking transfer payment. Customer schoose anyone to checkbill.
 
