@@ -16,7 +16,7 @@ This procect is about E-commerc website development, It is bycicle sale website,
 #### WooCommerce PDF Invoice & Pacging slips
 - WooCommerce PDF Invoice and Packing Slips is a WooCommerce extension plugin that automatically adds a PDF invoice to the order confirmation emails sent out to your customers.
 #### WooCommerce PDF-IPS-THAI
-- It is Plugin to help about language of system, to make thai font can not display to show on the system.
+- It is Plugin to help about language of system, to make thai font can not display to show on the system especially in the invoice and pacging slips.
 ## Methods  
 
 ## Website overview
