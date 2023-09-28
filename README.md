@@ -34,6 +34,7 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 - Admin
 ### Customer pool
 ![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
+- Start event with green point : Marks the beginning of the customer's journey on the platform.
 
 
 
