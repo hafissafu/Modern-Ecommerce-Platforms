@@ -14,8 +14,9 @@ This procect is about E-commerc website development, It is bycicle sale website,
 #### Woocommerce 
 - is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
 ## Methods  
-Let's come to see and visite my E-commerce website[Backer store] via pictures, and for this part will have diagram to show outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality that is BPMN[Business Process Model and Notation]
+
 ## Website overview
+Let's come to see and visite my E-commerce website[Backer store] via pictures, and for this part will have diagram to show outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality that is BPMN[Business Process Model and Notation]
 ### Shop page
 ![Screenshot 2023-09-28 032136](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/fa47cb83-5b20-495f-a770-826529410325)
 ![Screenshot 2023-09-28 032215](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/adaf25ea-821b-4e9c-8ee2-5cc1c00d2c1e)
