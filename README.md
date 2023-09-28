@@ -43,6 +43,11 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 ![Screenshot 2023-09-28 125524](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/d2693ccf-61d1-4911-bff6-2087e2aa2531)
 - **Add items to cart : When customer finished for selecting product, they will check at the cart, If the customer is satisfied with the selected product. they will go to checkout process to payment the prize of produt.**
 
+**1.4**
+![Screenshot 2023-09-28 134041](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/b9b77562-afdd-4625-b19e-5a65e451ef94)![Screenshot 2023-09-28 134133](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8508ae32-1311-482b-b830-d2a740c6f9de)
+![Screenshot 2023-09-28 134231](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8567f95c-f8e3-4f73-8ed4-de031f2a9a5c)
+
+
 
 
 
