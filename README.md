@@ -20,6 +20,7 @@ Let's come to see and visite my E-commerce website[Backer store] via pictures, a
 ### Shop page
 ![Screenshot 2023-09-28 032136](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/fa47cb83-5b20-495f-a770-826529410325)
 ![Screenshot 2023-09-28 032215](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/adaf25ea-821b-4e9c-8ee2-5cc1c00d2c1e)
+You can select any poduct that you interested and can see the spec of that product.
 ### Cart section
 ![Screenshot 2023-09-28 032429](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/7aeb7c43-c86f-4aca-ac43-09d413f715c6)
 ## BPMN diagram 
