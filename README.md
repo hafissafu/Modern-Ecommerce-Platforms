@@ -33,19 +33,22 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 - **Shipping product**
 - **Admin**
 ### 1 Customer pool
-**1.1**![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
-- **Start event with green point : Marks the beginning of the customer's journey on the platform.**
+![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
+- **1.1 Start event with green point** : Marks the beginning of the customer's journey on the platform.
 
-**1.2**![Screenshot 2023-09-28 124033](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/46b30c00-a822-4388-b59c-c987a0ed9e2a)
-- **When customer invite the website, they can look and see the product then select it.**
+![Screenshot 2023-09-28 124033](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/46b30c00-a822-4388-b59c-c987a0ed9e2a)
+- **1.2 When customer invite the website** : they can look and see the product then select it.
 
-**1.3**![Screenshot 2023-09-28 125508](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/32f945aa-420e-430b-9806-6688b1dfa4a4)
+*![Screenshot 2023-09-28 125508](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/32f945aa-420e-430b-9806-6688b1dfa4a4)
 ![Screenshot 2023-09-28 125524](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/d2693ccf-61d1-4911-bff6-2087e2aa2531)
-- **Add items to cart : When customer finished for selecting product, they will check at the cart, If the customer is satisfied with the selected product. they will go to checkout process to payment the prize of produt.**
+- **1.3 Add items to cart** : When customer finished for selecting product, they will check at the cart, If the customer is satisfied with the selected product. they will go to checkout process to payment the prize of produt.
 
-**1.4**![Screenshot 2023-09-28 134041](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/d511665f-aea2-4d53-a3bf-c11c9f086d6b)
+
+![Screenshot 2023-09-28 134041](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/d511665f-aea2-4d53-a3bf-c11c9f086d6b)
 ![Screenshot 2023-09-28 134133](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/58d9c668-62c1-413c-977a-323145b15f8d)
+- **1.4 checkout or check bill process** : Fill the in information for address that customer live 
 ![Screenshot 2023-09-28 134231](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/4067bafa-30e3-45e2-92ed-a0bfd491c9eb)
+  - **Identify payment methods** : They are for 2 way to payment, pay on destination and Banking transfer payment. Customer schoose anyone to checkbill.
 
 
 
