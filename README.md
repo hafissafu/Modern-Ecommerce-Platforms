@@ -18,9 +18,9 @@ This procect is about E-commerc website development, It is bycicle sale website,
 #### WooCommerce PDF-IPS-THAI
 - It is Plugin to help about language of system, to make thai font can not display to show on the system especially in the invoice and pacging slips.
 ## Methods  
-- To have a good website effective It is necessary to use the appropriate creation process. The Methodlogy that use to created and bulid my website is Agile.Agile is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.
+- To have a good website effective It is necessary to use the appropriate creation process. The Methodlogy that use to created and bulid my website is Agile. **Agile** is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.
 It's particularly suitable for projects like Backer store's E-Commerce Website, which may require ongoing updates, feature additions, and improvements to meet changing customer needs and market trends.
-- In part of designing backer store website, I use theme BICYCLESHOP version. Theme BICYCLESHOP version is a theme that created for about bicycle. There is a background image of a group of bicycles that looks and feels like a bicycle shop.Cause of Backer store is a wesite to selling about bicycles, so that why I dicided to bring this theme to use.
+- In part of designing backer store website, I use theme **BICYCLESHOP** version. Theme **BICYCLESHOP** version is a theme that created for about bicycle. There is a background image of a group of bicycles that looks and feels like a bicycle shop.Cause of Backer store is a wesite to selling about bicycles, so that why I dicided to bring this theme to use.
 
 
 ## Website overview
