@@ -45,7 +45,9 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 - **Admin**
 ### 1 Customer pool
 - **1.1 Start event with green point** : Marks the beginning of the customer's journey on the platform.
-![Screenshot 2023-09-28 035637](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/8c49ac37-efed-4adc-ac3a-856ff61e761c)
+![Screenshot 2023-10-04 032658](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/b5c268d7-116f-4a68-a76c-b55378efed30)
+
+
 
 - **1.2 When customer invite the website** : they can look and see the product then select it.
 ![Screenshot 2023-09-28 124033](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/46b30c00-a822-4388-b59c-c987a0ed9e2a)
@@ -66,6 +68,10 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 - **Payment process** :Customers have two ways to paymentation, Pay on destination and pay via Banking transfer. Customers can choose anyone to pay, if pay on desination The customer can pay the courier immediately upon the arrival of the product.In part of bangking transfer, Customers can transfer money th!
 rough any bank account and send a payment receipt via message on the ฺ**Backer thailand shop** page.
 ![Screenshot 2023-10-04 025806](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/1699f246-4cb9-42dc-a024-a97e5ce324fa)
+
+
+### 2 Website pool
+
 
 
 
