@@ -18,6 +18,8 @@ This procect is about E-commerc website development, It is bycicle sale website,
 #### WooCommerce PDF-IPS-THAI
 - It is Plugin to help about language of system, to make thai font can not display to show on the system especially in the invoice and pacging slips.
 ## Methods  
+To have a good website effective It is necessary to use the appropriate creation process. The Methodlogy that use to created and bulid my website is Agile.Agile is an iterative and incremental approach to software development that emphasizes collaboration, adaptability, and customer feedback.
+It's particularly suitable for projects like Backer store's E-Commerce Website, which may require ongoing updates, feature additions, and improvements to meet changing customer needs and market trends.
 
 ## Website overview
 Let's come to see and visite my E-commerce website[Backer store] via pictures, and for this part will have diagram to show outlining key processes and step-by-step screenshots of my website to provide a visual insight into the user experience and functionality that is BPMN[Business Process Model and Notation]
