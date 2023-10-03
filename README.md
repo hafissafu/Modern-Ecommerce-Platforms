@@ -29,7 +29,8 @@ You can select any poduct that you interested and can see the spec of that produ
 ![Screenshot 2023-09-28 032429](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/7aeb7c43-c86f-4aca-ac43-09d413f715c6)
 ## BPMN diagram 
 Business Process Model and Notation of overview for my E-commerce website.It is going to show processes, showcasing key interactions and workflows that enhance the platform's user-friendly online Backer store experience.
-![Screenshot 2023-09-28 034727](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/f3645c6e-5ff4-4cf2-a2c1-74f0bc94b905)
+![Screenshot 2023-10-03 235054](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/ed6cb183-26ce-4cd2-a9e2-ad9af1c7ac15)
+
 ### Pools to use in BPMN
 - **Customer**
 - **Webstore**
