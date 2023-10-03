@@ -65,7 +65,8 @@ Business Process Model and Notation of overview for my E-commerce website.It is 
 
 - **Payment process** :Customers have two ways to paymentation, Pay on destination and pay via Banking transfer. Customers can choose anyone to pay, if pay on desination The customer can pay the courier immediately upon the arrival of the product.In part of bangking transfer, Customers can transfer money th!
 rough any bank account and send a payment receipt via message on the ฺ**Backer thailand shop** page.
-[Screenshot 2023-10-04 025806](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/675969d3-803a-472d-8134-1fa9d051d04e)
+![Screenshot 2023-10-04 025806](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/52c84b41-8f6d-42b1-9168-32b9806dd167)
+
  
 
 
