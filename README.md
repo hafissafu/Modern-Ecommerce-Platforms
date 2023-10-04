@@ -88,6 +88,7 @@ rough any bank account and send a payment receipt via message on the ฺ**Backer
 ![Screenshot 2023-10-04 104439](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/dceff0c3-49d8-49ff-98f3-c2d444cc7a2a)
 
 - On the delivery side Will receive products from admin. After that they will **package the product** or manage the product, then make **producting label or get packing slip** from admin in order to know the address for delivery to customers. After that is **product handover** and have **order tracking** then **product delivery** to customers.
+
 - **Producting label or packing slip**
 ![Screenshot 2023-10-04 095732](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/e60df8f9-0c2b-452a-8932-d9ca5d54f873)
 
@@ -96,6 +97,12 @@ rough any bank account and send a payment receipt via message on the ฺ**Backer
 
 - When receiving an order from a customer, Admin may give advice or **talk order** to customers. Then, when receiving the payment receipt sent from the customer who paid via transfer It will be **checking slip**. If sip is not complete, admin will sent the text to customer again, if slip is complete the admin will bring the product that customer ordered **sent to shipping**.
 
+## Conclusion
+**Its e-commerce website is a testament to the power of digital transformation in the world of bicycle sales. It combines the flexibility and user-friendly nature of WordPress and WooCommerce with careful customization and strategic plugin integration. We have created a bicycle shop website that reflects charm and interest. Diversify the reach of our customers**
+## Author
+### MR.Hafis Madeng
+- **ID:631431023**
+-  **IT at FATONI UNIVERSITY**
 
 
 
