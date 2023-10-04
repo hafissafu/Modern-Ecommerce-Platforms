@@ -1,7 +1,7 @@
 # Modern-Ecommerce-Platforms
 Design and Develop Modern Ecommerce Plafform
 # Backer store
-## Welcome to my store about selling Moutaint bycicle. 
+## Welcome to my store about selling sport bycicle. 
 ![Screenshot 2023-09-28 013341](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/dab7f0ef-68fe-487b-b5d1-c12294002d8b)
 - ### Bike store have many bicycles for mautaint bike and road bike . A mountain bike (MTB) or mountain bicycle is a bicycle designed for off-road cycling. Mountain bikes share some similarities with other bicycles, but incorporate features designed to enhance durability and performance in rough terrain, which makes them heavier, more complex and less efficient on smooth surfaces.Road bikes are bicycles designed to take you as far and as fast as your legs can manage on paved surfaces. The road bike gets its name from the terrain it is designed to be used on – the road.As you see in each type of them have difference Highlights,so you can select any product that you intereted.
 ## Abstract for project
