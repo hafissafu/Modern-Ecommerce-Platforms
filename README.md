@@ -73,6 +73,7 @@ rough any bank account and send a payment receipt via message on the ฺ**Backer
 
 ### 2 Website pool
 ![Screenshot 2023-10-04 030504](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/f7ab2824-0f75-44e8-8fb7-1e609a2c0d86)
+- When the shop **receives an item order** from a customer The system will **check the product**, if product is finished, The shop will **close the order** immediately.If product have in catalogs, It will going to next step **process item order**. In this part if customer shoose way to pay on destination, shop system **can close order** and go to next step is **shipment**. If customer pay via transfer, shop system will **send invoice** to customers,So that customers know the amount that must be paid and **make payment** then **payment accepted**.After that shop system will **close order** and to **shipment** immediatly.
 
 
 
