@@ -74,6 +74,35 @@ rough any bank account and send a payment receipt via message on the ฺ**Backer
 ### 2 Website pool
 ![Screenshot 2023-10-04 030504](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/f7ab2824-0f75-44e8-8fb7-1e609a2c0d86)
 - When the shop **receives an item order** from a customer The system will **check the product**, if product is finished, The shop will **close the order** immediately.If product have in catalogs, It will going to next step **process item order**. In this part if customer shoose way to pay on destination, shop system **can close order** and go to next step is **shipment**. If customer pay via transfer, shop system will **send invoice** to customers,So that customers know the amount that must be paid and **make payment** then **payment accepted**.After that shop system will **close order** and to **shipment** immediatly.
+- **Order status**: to show on website about order status that the customer will check such as pending payment, processing, completed.
+![Screenshot 2023-10-04 095457](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/f93afef6-34f1-428a-9c83-d3a308009ee6)
+
+- **Invoice**
+![Screenshot 2023-10-04 095611](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/4b2e52f3-b710-4a07-a5d4-2589e7d48b94)
+
+### 3 Banking system pool
+![Screenshot 2023-10-04 103049](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/688a2745-d47c-418b-8c55-43c4a4a23e74)
+- In this perocess will related to paymentation of customers.When the customer transfers into the banking system The system will check **customer funds** in the account. If that's enough The system will **receive the data**and **get transfer amount** into the system then go into **transfer transaction processing** next.
+
+### 4 Shipping product pool
+![Screenshot 2023-10-04 104439](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/dceff0c3-49d8-49ff-98f3-c2d444cc7a2a)
+
+- On the delivery side Will receive products from admin. After that they will **package the product** or manage the product, then make **producting label or get packing slip** from admin in order to know the address for delivery to customers. After that is **product handover** and have **order tracking** then **product delivery** to customers.
+- **Producting label or packing slip**
+![Screenshot 2023-10-04 095732](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/e60df8f9-0c2b-452a-8932-d9ca5d54f873)
+
+### 5 Admin pool
+![Screenshot 2023-10-04 110442](https://github.com/hafissafu/Modern-Ecommerce-Platforms/assets/110332645/b110cd2a-5861-4dcb-9a01-663637229627)
+
+- When receiving an order from a customer, Admin may give advice or **talk order** to customers. Then, when receiving the payment receipt sent from the customer who paid via transfer It will be **checking slip**. If sip is not complete, admin will sent the text to customer again, if slip is complete the admin will bring the product that customer ordered **sent to shipping**.
+
+
+
+
+
+
+
+
 
 
 
